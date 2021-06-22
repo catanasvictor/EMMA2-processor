@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Emma_2.srcs/sources_1/new/ALU.vhd" \
+"../../../../Emma_2.srcs/sources_1/new/Data_memory.vhd" \
+"../../../../Emma_2.srcs/sources_1/new/Instr_memory.vhd" \
+"../../../../Emma_2.srcs/sources_1/new/MPG.vhd" \
+"../../../../Emma_2.srcs/sources_1/new/Microcode_Unit.vhd" \
+"../../../../Emma_2.srcs/sources_1/new/Microprogram_counter.vhd" \
+"../../../../Emma_2.srcs/sources_1/new/Program_counter.vhd" \
+"../../../../Emma_2.srcs/sources_1/new/Registers.vhd" \
+"../../../../Emma_2.srcs/sources_1/new/emma2_proc.vhd" \
+"../../../../Emma_2.srcs/sim_1/new/emma2_proc_tb.vhd" \
+
+# Do not sort compile order
+nosort

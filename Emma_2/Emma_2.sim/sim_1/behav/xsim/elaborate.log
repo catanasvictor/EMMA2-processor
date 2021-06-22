@@ -1,0 +1,26 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 03d35a3b228b46d296bba400059812a5 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot emma2_proc_tb_behav xil_defaultlib.emma2_proc_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.MPG [mpg_default]
+Compiling architecture behavioral of entity xil_defaultlib.Microcode_Unit [microcode_unit_default]
+Compiling architecture behavioral of entity xil_defaultlib.Microprogram_counter [microprogram_counter_default]
+Compiling architecture behavioral of entity xil_defaultlib.Program_counter [program_counter_default]
+Compiling architecture behavioral of entity xil_defaultlib.Registers [registers_default]
+Compiling architecture behavioral of entity xil_defaultlib.Data_memory [data_memory_default]
+Compiling architecture behavioral of entity xil_defaultlib.Instr_memory [instr_memory_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU [alu_default]
+Compiling architecture behavioral of entity xil_defaultlib.emma2_proc [emma2_proc_default]
+Compiling architecture behavioral of entity xil_defaultlib.emma2_proc_tb
+Built simulation snapshot emma2_proc_tb_behav

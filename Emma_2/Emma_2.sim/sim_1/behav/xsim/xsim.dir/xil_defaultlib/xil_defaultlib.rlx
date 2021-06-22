@@ -1,0 +1,20 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sim_1/new/ALU_tb.vhd,1609701278,vhdl,,,,alu_tb,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sim_1/new/Data_memory_tb.vhd,1609702662,vhdl,,,,datamemory_tb,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sim_1/new/Instr_Memory_tb.vhd,1609701853,vhdl,,,,instr_memory_tb,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sim_1/new/Microprogram_counter_tb.vhd,1609700531,vhdl,,,,microprogram_counter_tb,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sim_1/new/Program_counter_tb.vhd,1609700928,vhdl,,,,program_counter_tb,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sim_1/new/Registers_tb.vhd,1609703705,vhdl,,,,registers_tb,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sim_1/new/emma2_proc_tb.vhd,1609672974,vhdl,,,,emma2_proc_tb,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sources_1/new/ALU.vhd,1609678799,vhdl,,,,alu,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sources_1/new/Data_memory.vhd,1609703225,vhdl,,,,data_memory,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sources_1/new/Instr_memory.vhd,1609704974,vhdl,,,,instr_memory,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sources_1/new/MPG.vhd,1609623985,vhdl,,,,mpg,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sources_1/new/Microcode_Unit.vhd,1609704409,vhdl,,,,microcode_unit,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sources_1/new/Microprogram_counter.vhd,1609678366,vhdl,,,,microprogram_counter,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sources_1/new/Program_counter.vhd,1609679250,vhdl,,,,program_counter,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sources_1/new/Registers.vhd,1609704631,vhdl,,,,registers,,,,,,,,
+C:/Users/kajke/Desktop/CTI-code_III/SSC_proiect/Emma_2/Emma_2.srcs/sources_1/new/emma2_proc.vhd,1609682144,vhdl,,,,emma2_proc,,,,,,,,
